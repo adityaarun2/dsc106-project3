@@ -1,2 +1,2 @@
 # dsc106-project3
-Project 2 - Football
+Project 3
